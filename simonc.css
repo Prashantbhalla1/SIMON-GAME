@@ -1,0 +1,53 @@
+h1{
+    font-size: 60px;
+    text-align: center;
+    color: cornsilk;
+    font-family: cursive;
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+}
+body{
+    margin:0;
+    padding: 0;
+    background-color: #011F3F;
+text-align: center;
+}
+.cont{
+    width:50%;
+    display: block;
+    margin:auto;
+
+}
+.box{
+    margin:25px;
+    width:200px;
+    height:200px;
+    border: 10px solid black;
+    border-radius: 20px;
+    display: inline-block;
+
+}
+#green{
+    background-color: green;
+}
+#red{
+    background-color: red;
+}
+#yellow{
+    background-color: yellow;
+}
+#blue{
+    background-color: blue;
+}
+.press{
+    opacity: 0.5;
+    box-shadow: 2px 2px 5px 2.5px white;
+}
+.gameover{
+    background-color: red;
+}
+footer{
+    color: white;
+    margin-top:25px ;
+}
